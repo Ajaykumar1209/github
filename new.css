@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    background: cadetblue;
+}
+.Submit_container{
+    text-align: center;
+    margin-top: 8%;
+    border: 3px solid black;
+    margin-left: 38%;
+    margin-right: 35%;
+    border-radius: 10px;
+    font-size: 20px;
+    color: whitesmoke;
+}
